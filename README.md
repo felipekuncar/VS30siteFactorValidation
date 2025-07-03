@@ -8,6 +8,6 @@ F. Kuncar, B. A. Bradley, C. A. de la Torre (2025) Validating VS30-based site am
 
 # Data
 
-1. Metadata (e.g., VS30, Z1.0 values) for the actual and simulation conditions. 
+1. Metadata (e.g., VS30, Z1.0 values) for the actual and simulation conditions, for the 212 sites considered. 
 2. Observed and simulated intensity measures.
 3. Residual analysis results.
