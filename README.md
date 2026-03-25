@@ -4,7 +4,8 @@
 
 This repository provides supplementary data associated with the paper
 
-F. Kuncar, B. A. Bradley, C. A. de la Torre (2025) Validating VS30-based site amplification factors in hybrid broadband ground-motion simulation of small-magnitude earthquakes in New Zealand.
+F. Kuncar, B. A. Bradley, C. A. de la Torre (2026) Validating VS30-based site amplification factors in hybrid broadband ground-motion simulation of small-magnitude earthquakes in New Zealand. Earthquake Spectra, 42(1).
+https://doi.org/10.1002/esp4.70005
 
 # Data
 
